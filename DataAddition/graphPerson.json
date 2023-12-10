@@ -1,0 +1,5594 @@
+[
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Brody Jenner",
+        "id": "Brody Jenner"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Kim Kardashian",
+        "id": "Kim Kardashian"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Dj Premier",
+        "id": "Dj Premier",
+        "realname": "Кристофер Эдвард Мартин"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Dixon",
+        "id": "Dixon"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:27"
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Штеффен Беркхан",
+        "alias": "Dixon",
+        "id": "Штеффен Беркхан"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:47"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "birthdate": "January 1, 1980",
+        "nationality": "American",
+        "name": "John Doe",
+        "id": "John Doe"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:49"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "birthdate": "March 15, 1992",
+        "nationality": "British",
+        "name": "Jane Smith",
+        "id": "Jane Smith"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:50"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Dj Green Lantern",
+        "id": "Dj Green Lantern",
+        "realname": "Джеймс Кристофер Д’Агостино"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:51"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Он",
+        "id": "Он"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:52"
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Фрэнк Тенпенни",
+        "id": "Фрэнк Тенпенни"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:70"
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Dj Mister Cee",
+        "id": "Dj Mister Cee",
+        "realname": "Кельвин Лебрен"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:72"
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Нико Беллик",
+        "id": "Нико Беллик"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:78"
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Девушка",
+        "id": "Девушка"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:79"
+    }
+  },
+  {
+    "n": {
+      "identity": 83,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Cm Pink",
+        "id": "Cm Pink"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:83"
+    }
+  },
+  {
+    "n": {
+      "identity": 86,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "gender": "unknown",
+        "name": "Author",
+        "id": "Author"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:86"
+    }
+  },
+  {
+    "n": {
+      "identity": 94,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Андре Ромель Янг",
+        "alias": "Dr. Dre",
+        "id": "Андре Ромель Янг"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:94"
+    }
+  },
+  {
+    "n": {
+      "identity": 96,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Андре",
+        "id": "Андре"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:96"
+    }
+  },
+  {
+    "n": {
+      "identity": 97,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Dj Pooh",
+        "id": "Dj Pooh"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:97"
+    }
+  },
+  {
+    "n": {
+      "identity": 98,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Jimmy Lovine",
+        "id": "Jimmy Lovine"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:98"
+    }
+  },
+  {
+    "n": {
+      "identity": 99,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Протагонист",
+        "id": "Протагонист"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:99"
+    }
+  },
+  {
+    "n": {
+      "identity": 100,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Дейв",
+        "id": "Дейв"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:100"
+    }
+  },
+  {
+    "n": {
+      "identity": 101,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Keinemusik",
+        "id": "Keinemusik"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:101"
+    }
+  },
+  {
+    "n": {
+      "identity": 102,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Хуан Стриклер",
+        "id": "Хуан Стриклер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:102"
+    }
+  },
+  {
+    "n": {
+      "identity": 108,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Райдер",
+        "id": "Райдер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:108"
+    }
+  },
+  {
+    "n": {
+      "identity": 109,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "musicpreferences": "Old School, Golden Era of Hip-Hop",
+        "name": "Forth Right Mc",
+        "dislikes": "thin women",
+        "id": "Forth Right Mc"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:109"
+    }
+  },
+  {
+    "n": {
+      "identity": 111,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Wife",
+        "id": "Wife"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:111"
+    }
+  },
+  {
+    "n": {
+      "identity": 117,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Julio G",
+        "id": "Julio G"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:117"
+    }
+  },
+  {
+    "n": {
+      "identity": 119,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Mc Codebreaker",
+        "id": "Mc Codebreaker"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:119"
+    }
+  },
+  {
+    "n": {
+      "identity": 124,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Арт",
+        "id": "Арт"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:124"
+    }
+  },
+  {
+    "n": {
+      "identity": 125,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Mr. Magic",
+        "id": "Mr. Magic"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:125"
+    }
+  },
+  {
+    "n": {
+      "identity": 129,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Yappy",
+        "id": "Yappy"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:129"
+    }
+  },
+  {
+    "n": {
+      "identity": 133,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "role": "DJ",
+        "name": "Marley Marl",
+        "id": "Marley Marl"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:133"
+    }
+  },
+  {
+    "n": {
+      "identity": 134,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "role": "co-producer",
+        "name": "Fly Ty Williams",
+        "id": "Fly Ty Williams"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:134"
+    }
+  },
+  {
+    "n": {
+      "identity": 138,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мистер Мэджик",
+        "id": "Мистер Мэджик"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:138"
+    }
+  },
+  {
+    "n": {
+      "identity": 139,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Red Alert",
+        "id": "Red Alert"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:139"
+    }
+  },
+  {
+    "n": {
+      "identity": 145,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Марли Марл",
+        "id": "Марли Марл"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:145"
+    }
+  },
+  {
+    "n": {
+      "identity": 151,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Fly Ty",
+        "id": "Fly Ty"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:151"
+    }
+  },
+  {
+    "n": {
+      "identity": 152,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Rochell'Le",
+        "id": "Rochell'Le"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:152"
+    }
+  },
+  {
+    "n": {
+      "identity": 156,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мэрайа Кэри",
+        "id": "Мэрайа Кэри"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:156"
+    }
+  },
+  {
+    "n": {
+      "identity": 158,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "The Real Rochelle",
+        "id": "The Real Rochelle"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:158"
+    }
+  },
+  {
+    "n": {
+      "identity": 163,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мэдд Догг",
+        "id": "Мэдд Догг"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:163"
+    }
+  },
+  {
+    "n": {
+      "identity": 164,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Roxana Shante",
+        "id": "Roxana Shante"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:164"
+    }
+  },
+  {
+    "n": {
+      "identity": 165,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Jimmy Silverman",
+        "id": "Jimmy Silverman"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:165"
+    }
+  },
+  {
+    "n": {
+      "identity": 172,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Марайя Кэри",
+        "id": "Марайя Кэри"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:172"
+    }
+  },
+  {
+    "n": {
+      "identity": 176,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "DJ",
+        "name": "Sage",
+        "id": "Sage"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:176"
+    }
+  },
+  {
+    "n": {
+      "identity": 182,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Slim Skills",
+        "id": "Slim Skills"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:182"
+    }
+  },
+  {
+    "n": {
+      "identity": 185,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Соломун",
+        "id": "Соломун"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:185"
+    }
+  },
+  {
+    "n": {
+      "identity": 187,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Протагонист Gta Online",
+        "id": "Протагонист Gta Online"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:187"
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Игрок",
+        "id": "Игрок"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:188"
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Инглиш Дейв",
+        "id": "Инглиш Дейв"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:192"
+    }
+  },
+  {
+    "n": {
+      "identity": 194,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Гея Тони",
+        "id": "Гея Тони"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:194"
+    }
+  },
+  {
+    "n": {
+      "identity": 196,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Диджей",
+        "id": "Диджей"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Solomun",
+        "id": "Solomun"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:199"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Марея Стампер",
+        "id": "Марея Стампер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 207,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "The Black Madonna",
+        "id": "The Black Madonna"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:207"
+    }
+  },
+  {
+    "n": {
+      "identity": 209,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Марея",
+        "id": "Марея"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:209"
+    }
+  },
+  {
+    "n": {
+      "identity": 223,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Карл Джонсон",
+        "id": "Карл Джонсон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:223"
+    }
+  },
+  {
+    "n": {
+      "identity": 224,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Кен Розенберг",
+        "id": "Кен Розенберг"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:224"
+    }
+  },
+  {
+    "n": {
+      "identity": 229,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "role": "manager",
+        "name": "Kent Pol",
+        "id": "Kent Pol"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:229"
+    }
+  },
+  {
+    "n": {
+      "identity": 233,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Правда",
+        "id": "Правда"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:233"
+    }
+  },
+  {
+    "n": {
+      "identity": 238,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Пол",
+        "id": "Пол"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:238"
+    }
+  },
+  {
+    "n": {
+      "identity": 239,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Маккер",
+        "id": "Маккер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:239"
+    }
+  },
+  {
+    "n": {
+      "identity": 241,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Участников Группы",
+        "id": "Участников Группы"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:241"
+    }
+  },
+  {
+    "n": {
+      "identity": 243,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "такжеИзвестныйКак": "DJ George, Twin Shadow",
+        "англ": "George Lewis Jr.",
+        "родился": "30 марта 1983 года",
+        "name": "Джордж Льюис-Младший",
+        "id": "Джордж Льюис-Младший",
+        "местоРождения": "Доминиканская Республика"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:243"
+    }
+  },
+  {
+    "n": {
+      "identity": 244,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Dj George",
+        "id": "Dj George"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:244"
+    }
+  },
+  {
+    "n": {
+      "identity": 245,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Twin Shadow",
+        "id": "Twin Shadow"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:245"
+    }
+  },
+  {
+    "n": {
+      "identity": 246,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Льюис",
+        "id": "Льюис"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:246"
+    }
+  },
+  {
+    "n": {
+      "identity": 255,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Ah Ah Kung",
+        "name": "А А Кун",
+        "id": "А А Кун",
+        "residence": "Гонконг, Китай"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:255"
+    }
+  },
+  {
+    "n": {
+      "identity": 257,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Ву Зи Му",
+        "id": "Ву Зи Му"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:257"
+    }
+  },
+  {
+    "n": {
+      "identity": 258,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Ahron Ward",
+        "name": "Аарон Уорд",
+        "id": "Аарон Уорд"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:258"
+    }
+  },
+  {
+    "n": {
+      "identity": 259,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Майкл Де Санта",
+        "id": "Майкл Де Санта"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:259"
+    }
+  },
+  {
+    "n": {
+      "identity": 260,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джимми Де Санта",
+        "id": "Джимми Де Санта"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:260"
+    }
+  },
+  {
+    "n": {
+      "identity": 261,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Abdul Amir",
+        "arabicname": "عبدالأمير",
+        "name": "Абдул Амир",
+        "id": "Абдул Амир"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:261"
+    }
+  },
+  {
+    "n": {
+      "identity": 262,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Юсуф Амир",
+        "id": "Юсуф Амир"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:262"
+    }
+  },
+  {
+    "n": {
+      "identity": 263,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "wealth": "very rich",
+        "occupation": "real estate businessman",
+        "birthplace": "Egypt",
+        "name": "Abdul Amir",
+        "currentlocation": "United Arab Emirates",
+        "id": "Abdul Amir"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:263"
+    }
+  },
+  {
+    "n": {
+      "identity": 264,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "businessman",
+        "birthyear": "1977",
+        "name": "Yusuf Amir",
+        "currentlocation": "Liberty City, United States",
+        "id": "Yusuf Amir"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:264"
+    }
+  },
+  {
+    "n": {
+      "identity": 265,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Abner Horowitz",
+        "alias": "Abner Horowitz",
+        "id": "Abner Horowitz"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:265"
+    }
+  },
+  {
+    "n": {
+      "identity": 268,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Agatha Baker",
+        "name": "Агата Бейкер",
+        "id": "Агата Бейкер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:268"
+    }
+  },
+  {
+    "n": {
+      "identity": 270,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Агата",
+        "nickname": "Кобыла с яйцами",
+        "id": "Агата",
+        "behavior": "professional"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:270"
+    }
+  },
+  {
+    "n": {
+      "identity": 271,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Эйвери Дагган",
+        "id": "Эйвери Дагган"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:271"
+    }
+  },
+  {
+    "n": {
+      "identity": 273,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Репортёр",
+        "id": "Репортёр"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:273"
+    }
+  },
+  {
+    "n": {
+      "identity": 277,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Владелец Пентхауса",
+        "id": "Владелец Пентхауса"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:277"
+    }
+  },
+  {
+    "n": {
+      "identity": 278,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Агент 14",
+        "language": "англ.",
+        "id": "Агент 14"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:278"
+    }
+  },
+  {
+    "n": {
+      "identity": 280,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Лестер",
+        "id": "Лестер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:280"
+    }
+  },
+  {
+    "n": {
+      "identity": 297,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Agent Ochre",
+        "name": "Агент Окр",
+        "id": "Агент Окр"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:297"
+    }
+  },
+  {
+    "n": {
+      "identity": 303,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Agent Provocateur",
+        "name": "Агент Провокатор",
+        "id": "Агент Провокатор"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:303"
+    }
+  },
+  {
+    "n": {
+      "identity": 308,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Agent Alman",
+        "name": "Агент Элмен",
+        "id": "Агент Элмен"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:308"
+    }
+  },
+  {
+    "n": {
+      "identity": 310,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Adam",
+        "id": "Adam"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:310"
+    }
+  },
+  {
+    "n": {
+      "identity": 311,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Adam",
+        "name": "Адам",
+        "id": "Адам"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:311"
+    }
+  },
+  {
+    "n": {
+      "identity": 317,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Adam Dimayev",
+        "name": "Адам Димаев",
+        "id": "Адам Димаев"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:317"
+    }
+  },
+  {
+    "n": {
+      "identity": 318,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Российский Эмигрант",
+        "id": "Российский Эмигрант"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:318"
+    }
+  },
+  {
+    "n": {
+      "identity": 319,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Преступник",
+        "id": "Преступник"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:319"
+    }
+  },
+  {
+    "n": {
+      "identity": 324,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Человек Из United Liberty Paper",
+        "id": "Человек Из United Liberty Paper"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:324"
+    }
+  },
+  {
+    "n": {
+      "identity": 327,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Димаев",
+        "id": "Димаев"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:327"
+    }
+  },
+  {
+    "n": {
+      "identity": 328,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Телохранители",
+        "id": "Телохранители"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:328"
+    }
+  },
+  {
+    "n": {
+      "identity": 330,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Последний Из Них"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:330"
+    }
+  },
+  {
+    "n": {
+      "identity": 332,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Adam Rowney Jr.",
+        "name": "Адам Роуни-Младший",
+        "id": "Адам Роуни-Младший"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:332"
+    }
+  },
+  {
+    "n": {
+      "identity": 333,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Роберт Дауни-Младший",
+        "id": "Роберт Дауни-Младший"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:333"
+    }
+  },
+  {
+    "n": {
+      "identity": 336,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Adam Tedman",
+        "name": "Адам Тедман",
+        "id": "Адам Тедман"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:336"
+    }
+  },
+  {
+    "n": {
+      "identity": 339,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Art Adam First",
+        "id": "Art Adam First"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:339"
+    }
+  },
+  {
+    "n": {
+      "identity": 340,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Adam First",
+        "name": "Адам Фёрст",
+        "id": "Адам Фёрст"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:340"
+    }
+  },
+  {
+    "n": {
+      "identity": 344,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мать Адама",
+        "id": "Мать Адама"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:344"
+    }
+  },
+  {
+    "n": {
+      "identity": 350,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джеми Кэнфилд",
+        "id": "Джеми Кэнфилд"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:350"
+    }
+  },
+  {
+    "n": {
+      "identity": 351,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Adriana Yanira Lopez",
+        "name": "Андриана Янира Лопес",
+        "id": "Андриана Янира Лопес"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:351"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Луис",
+        "id": "Луис"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:352"
+    }
+  },
+  {
+    "n": {
+      "identity": 353,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Лета",
+        "id": "Лета"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:353"
+    }
+  },
+  {
+    "n": {
+      "identity": 354,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Эрнесто Лопесов",
+        "id": "Эрнесто Лопесов"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:354"
+    }
+  },
+  {
+    "n": {
+      "identity": 355,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Адриана",
+        "id": "Адриана"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:355"
+    }
+  },
+  {
+    "n": {
+      "identity": 356,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Луис Армандо Торрес",
+        "id": "Луис Армандо Торрес"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:356"
+    }
+  },
+  {
+    "n": {
+      "identity": 357,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Энрике Бардаса",
+        "id": "Энрике Бардаса"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:357"
+    }
+  },
+  {
+    "n": {
+      "identity": 358,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Муж"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:358"
+    }
+  },
+  {
+    "n": {
+      "identity": 360,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Дети"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:360"
+    }
+  },
+  {
+    "n": {
+      "identity": 368,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Она",
+        "id": "Она"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:368"
+    }
+  },
+  {
+    "n": {
+      "identity": 369,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "торговец наркотиками",
+        "name": "Армандо",
+        "id": "Армандо"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:369"
+    }
+  },
+  {
+    "n": {
+      "identity": 371,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мори Киббуца",
+        "id": "Мори Киббуца"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:371"
+    }
+  },
+  {
+    "n": {
+      "identity": 373,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "ростовщик",
+        "name": "Мистер Санто",
+        "id": "Мистер Санто"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:373"
+    }
+  },
+  {
+    "n": {
+      "identity": 374,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Isaac",
+        "name": "Isaac",
+        "id": "Isaac"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:374"
+    }
+  },
+  {
+    "n": {
+      "identity": 379,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "актёр",
+        "name": "Айзек",
+        "id": "Айзек"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:379"
+    }
+  },
+  {
+    "n": {
+      "identity": 381,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "основатель киностудии",
+        "name": "Фред Куинси",
+        "id": "Фред Куинси"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:381"
+    }
+  },
+  {
+    "n": {
+      "identity": 383,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Эйб Шварцман",
+        "id": "Эйб Шварцман"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:383"
+    }
+  },
+  {
+    "n": {
+      "identity": 388,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Главные Герои",
+        "id": "Главные Герои"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:388"
+    }
+  },
+  {
+    "n": {
+      "identity": 389,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Eileen",
+        "name": "Айлин",
+        "id": "Айлин"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:389"
+    }
+  },
+  {
+    "n": {
+      "identity": 392,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Irene Kelly",
+        "name": "Айрин Келли",
+        "id": "Айрин Келли"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:392"
+    }
+  },
+  {
+    "n": {
+      "identity": 395,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "такжеИзвестныйКак": "Сципио",
+        "англ": "Alan Crawford",
+        "name": "Алан Кроуфорд",
+        "id": "Алан Кроуфорд"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:395"
+    }
+  },
+  {
+    "n": {
+      "identity": 397,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Алан",
+        "id": "Алан"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:397"
+    }
+  },
+  {
+    "n": {
+      "identity": 398,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Og Loc",
+        "id": "Og Loc"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:398"
+    }
+  },
+  {
+    "n": {
+      "identity": 399,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Карл",
+        "id": "Карл"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:399"
+    }
+  },
+  {
+    "n": {
+      "identity": 401,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Некая Женщина",
+        "id": "Некая Женщина"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:401"
+    }
+  },
+  {
+    "n": {
+      "identity": 407,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Alex Shrub",
+        "name": "Алекс Шраб",
+        "id": "Алекс Шраб"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:407"
+    }
+  },
+  {
+    "n": {
+      "identity": 409,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Шраб",
+        "id": "Шраб"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:409"
+    }
+  },
+  {
+    "n": {
+      "identity": 412,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Томми Версетти",
+        "id": "Томми Версетти"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:412"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Алекс",
+        "id": "Алекс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:413"
+    }
+  },
+  {
+    "n": {
+      "identity": 414,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Кэнди Сакс",
+        "id": "Кэнди Сакс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:414"
+    }
+  },
+  {
+    "n": {
+      "identity": 418,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Александра Чилтон",
+        "nickname": "Алекс",
+        "id": "Александра Чилтон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:418"
+    }
+  },
+  {
+    "n": {
+      "identity": 419,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Нико",
+        "location": "Алгонквин",
+        "id": "Нико"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:419"
+    }
+  },
+  {
+    "n": {
+      "identity": 420,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мать",
+        "id": "Мать"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:420"
+    }
+  },
+  {
+    "n": {
+      "identity": 421,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Дочь",
+        "id": "Дочь"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:421"
+    }
+  },
+  {
+    "n": {
+      "identity": 422,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Врач",
+        "id": "Врач"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:422"
+    }
+  },
+  {
+    "n": {
+      "identity": 423,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Тренер По Гимнастике",
+        "id": "Тренер По Гимнастике"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:423"
+    }
+  },
+  {
+    "n": {
+      "identity": 428,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "преподаватель",
+        "name": "Мистер Хопкинс",
+        "id": "Мистер Хопкинс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:428"
+    }
+  },
+  {
+    "n": {
+      "identity": 432,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Продюсер",
+        "id": "Продюсер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:432"
+    }
+  },
+  {
+    "n": {
+      "identity": 439,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "деньги": "больше денег, чем у стран третьего мира",
+        "name": "Старик",
+        "id": "Старик"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:439"
+    }
+  },
+  {
+    "n": {
+      "identity": 442,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Внук",
+        "id": "Внук"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:442"
+    }
+  },
+  {
+    "n": {
+      "identity": 447,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "appearance": "Most Wanted",
+        "name": "Алисса",
+        "photo": "absent",
+        "location": "Маленькая Италия",
+        "id": "Алисса",
+        "scriptfile": "script.img"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:447"
+    }
+  },
+  {
+    "n": {
+      "identity": 448,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Алонсо",
+        "language": "англ.",
+        "id": "Алонсо"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:448"
+    }
+  },
+  {
+    "n": {
+      "identity": 450,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Alonso",
+        "id": "Alonso"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:450"
+    }
+  },
+  {
+    "n": {
+      "identity": 451,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Juan Li",
+        "id": "Juan Li"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:451"
+    }
+  },
+  {
+    "n": {
+      "identity": 455,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Тедди Бенавидес",
+        "id": "Тедди Бенавидес"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:455"
+    }
+  },
+  {
+    "n": {
+      "identity": 456,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Рэй Боччино",
+        "id": "Рэй Боччино"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:456"
+    }
+  },
+  {
+    "n": {
+      "identity": 457,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Альберт",
+        "id": "Альберт"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:457"
+    }
+  },
+  {
+    "n": {
+      "identity": 458,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Арчи",
+        "id": "Арчи"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:458"
+    }
+  },
+  {
+    "n": {
+      "identity": 460,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Альберт Крисп",
+        "alias": "Albert Crisp",
+        "id": "Альберт Крисп"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:460"
+    }
+  },
+  {
+    "n": {
+      "identity": 462,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Арчи Крисп",
+        "id": "Арчи Крисп"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:462"
+    }
+  },
+  {
+    "n": {
+      "identity": 463,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Гарольд Картрайт",
+        "id": "Гарольд Картрайт"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:463"
+    }
+  },
+  {
+    "n": {
+      "identity": 464,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джек Паркинсон",
+        "id": "Джек Паркинсон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:464"
+    }
+  },
+  {
+    "n": {
+      "identity": 469,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Брат",
+        "id": "Брат"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:469"
+    }
+  },
+  {
+    "n": {
+      "identity": 471,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Agent",
+        "id": "Agent",
+        "worksas": "drug enforcement agent"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:471"
+    }
+  },
+  {
+    "n": {
+      "identity": 477,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Alberto Robina",
+        "name": "Альберто Робина",
+        "id": "Альберто Робина"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:477"
+    }
+  },
+  {
+    "n": {
+      "identity": 479,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Хорхе Пупо",
+        "id": "Хорхе Пупо"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:479"
+    }
+  },
+  {
+    "n": {
+      "identity": 482,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Умберто Робин",
+        "id": "Умберто Робин"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:482"
+    }
+  },
+  {
+    "n": {
+      "identity": 484,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Альберто",
+        "id": "Альберто"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:484"
+    }
+  },
+  {
+    "n": {
+      "identity": 487,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Виктор Вэнс",
+        "id": "Виктор Вэнс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:487"
+    }
+  },
+  {
+    "n": {
+      "identity": 491,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Чолос",
+        "id": "Чолос"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:491"
+    }
+  },
+  {
+    "n": {
+      "identity": 492,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "healthcondition": "слабое сердце",
+        "name": "Альберто Робин",
+        "id": "Альберто Робин"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:492"
+    }
+  },
+  {
+    "n": {
+      "identity": 495,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Alve",
+        "name": "Альв",
+        "id": "Альв"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:495"
+    }
+  },
+  {
+    "n": {
+      "identity": 499,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Пако",
+        "id": "Пако"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:499"
+    }
+  },
+  {
+    "n": {
+      "identity": 501,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Alphonse",
+        "name": "Альфонс",
+        "id": "Альфонс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:501"
+    }
+  },
+  {
+    "n": {
+      "identity": 505,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Alfonso",
+        "name": "Альфонсо",
+        "id": "Альфонсо"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:505"
+    }
+  },
+  {
+    "n": {
+      "identity": 509,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Amanda De Santa",
+        "language": "English",
+        "id": "Amanda De Santa"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:509"
+    }
+  },
+  {
+    "n": {
+      "identity": 510,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "birthdate": "1970",
+        "name": "Amanda",
+        "id": "Amanda"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:510"
+    }
+  },
+  {
+    "n": {
+      "identity": 511,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Michael Townley",
+        "id": "Michael Townley"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:511"
+    }
+  },
+  {
+    "n": {
+      "identity": 512,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Trevor",
+        "id": "Trevor"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:512"
+    }
+  },
+  {
+    "n": {
+      "identity": 513,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Jimmy",
+        "id": "Jimmy"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:513"
+    }
+  },
+  {
+    "n": {
+      "identity": 515,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Tracy",
+        "id": "Tracy"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:515"
+    }
+  },
+  {
+    "n": {
+      "identity": 516,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Аманда",
+        "id": "Аманда"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:516"
+    }
+  },
+  {
+    "n": {
+      "identity": 518,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Майкл",
+        "id": "Майкл"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:518"
+    }
+  },
+  {
+    "n": {
+      "identity": 519,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Кайл Чавис",
+        "id": "Кайл Чавис"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:519"
+    }
+  },
+  {
+    "n": {
+      "identity": 522,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Персонаж",
+        "id": "Персонаж"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:522"
+    }
+  },
+  {
+    "n": {
+      "identity": 524,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Angus Martin",
+        "name": "Ангус Мартин",
+        "id": "Ангус Мартин"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:524"
+    }
+  },
+  {
+    "n": {
+      "identity": 527,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джонни",
+        "id": "Джонни"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:527"
+    }
+  },
+  {
+    "n": {
+      "identity": 530,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Билли",
+        "id": "Билли"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:530"
+    }
+  },
+  {
+    "n": {
+      "identity": 534,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Ангус",
+        "id": "Ангус"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:534"
+    }
+  },
+  {
+    "n": {
+      "identity": 535,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Братья",
+        "id": "Братья"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:535"
+    }
+  },
+  {
+    "n": {
+      "identity": 536,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джим",
+        "id": "Джим"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:536"
+    }
+  },
+  {
+    "n": {
+      "identity": 537,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Клэй",
+        "id": "Клэй"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:537"
+    }
+  },
+  {
+    "n": {
+      "identity": 538,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Терри",
+        "id": "Терри"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:538"
+    }
+  },
+  {
+    "n": {
+      "identity": 544,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Andre Perkins",
+        "name": "Эндри Пёркинс",
+        "id": "Эндри Пёркинс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:544"
+    }
+  },
+  {
+    "n": {
+      "identity": 546,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Andre the Accelerator",
+        "name": "Андре Ускоритель",
+        "id": "Андре Ускоритель"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:546"
+    }
+  },
+  {
+    "n": {
+      "identity": 549,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "диджей": "Rise FM",
+        "name": "Боя Санчеса",
+        "год": "1998",
+        "id": "Боя Санчеса"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:549"
+    }
+  },
+  {
+    "n": {
+      "identity": 550,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Andreas",
+        "name": "Андреас",
+        "id": "Андреас"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:550"
+    }
+  },
+  {
+    "n": {
+      "identity": 551,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Элизабета Торрес",
+        "id": "Элизабета Торрес"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:551"
+    }
+  },
+  {
+    "n": {
+      "identity": 555,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Хорхе",
+        "id": "Хорхе"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:555"
+    }
+  },
+  {
+    "n": {
+      "identity": 556,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мелкий Русский Бандит",
+        "id": "Мелкий Русский Бандит"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:556"
+    }
+  },
+  {
+    "n": {
+      "identity": 557,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Дмитрий Раскалов",
+        "id": "Дмитрий Раскалов"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:557"
+    }
+  },
+  {
+    "n": {
+      "identity": 558,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Михаил Фаустин",
+        "id": "Михаил Фаустин"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:558"
+    }
+  },
+  {
+    "n": {
+      "identity": 559,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Влад",
+        "id": "Влад"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:559"
+    }
+  },
+  {
+    "n": {
+      "identity": 560,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Андрей",
+        "id": "Андрей"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:560"
+    }
+  },
+  {
+    "n": {
+      "identity": 561,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Роман",
+        "id": "Роман"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:561"
+    }
+  },
+  {
+    "n": {
+      "identity": 563,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Фаустин",
+        "id": "Фаустин"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:563"
+    }
+  },
+  {
+    "n": {
+      "identity": 564,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Anita Bath",
+        "name": "Anita_Bath",
+        "description": "Мультиплеерный персонаж в игре Grand Theft Auto: Vice City Stories. Полная женщина в зелёной кофточке, по-видимому редко моется.",
+        "id": "Anita_Bath",
+        "residence": "Вайс-Сити"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:564"
+    }
+  },
+  {
+    "n": {
+      "identity": 565,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Anita Mendoza",
+        "name": "Анита Мендоса",
+        "id": "Анита Мендоса"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:565"
+    }
+  },
+  {
+    "n": {
+      "identity": 566,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "хореограф, актриса и писательница",
+        "name": "Анита",
+        "id": "Анита"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:566"
+    }
+  },
+  {
+    "n": {
+      "identity": 574,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Анна",
+        "id": "Анна"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:574"
+    }
+  },
+  {
+    "n": {
+      "identity": 577,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мартин Мадрасо",
+        "id": "Мартин Мадрасо"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:577"
+    }
+  },
+  {
+    "n": {
+      "identity": 578,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Онлайн-Игрок",
+        "id": "Онлайн-Игрок"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:578"
+    }
+  },
+  {
+    "n": {
+      "identity": 581,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Анна Михайловна Фаустина",
+        "id": "Анна Михайловна Фаустина"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:581"
+    }
+  },
+  {
+    "n": {
+      "identity": 583,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "birthdate": "1988",
+        "name": "Анна Фаустина",
+        "id": "Анна Фаустина"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:583"
+    }
+  },
+  {
+    "n": {
+      "identity": 584,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Елена",
+        "id": "Елена"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:584"
+    }
+  },
+  {
+    "n": {
+      "identity": 587,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джейсон Майклз",
+        "id": "Джейсон Майклз"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:587"
+    }
+  },
+  {
+    "n": {
+      "identity": 600,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Antonia Bottino",
+        "name": "Антония Боттино",
+        "id": "Антония Боттино"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:600"
+    }
+  },
+  {
+    "n": {
+      "identity": 601,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Сэмми Боттино",
+        "id": "Сэмми Боттино"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:601"
+    }
+  },
+  {
+    "n": {
+      "identity": 602,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "RP",
+        "name": "Rp",
+        "id": "Rp"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:602"
+    }
+  },
+  {
+    "n": {
+      "identity": 607,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Arden Long",
+        "name": "Арден Лонг",
+        "id": "Арден Лонг"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:607"
+    }
+  },
+  {
+    "n": {
+      "identity": 608,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Armando Mendez",
+        "name": "Армандо Мендес",
+        "id": "Армандо Мендес"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:608"
+    }
+  },
+  {
+    "n": {
+      "identity": 610,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Они",
+        "id": "Они"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:610"
+    }
+  },
+  {
+    "n": {
+      "identity": 611,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Наркобарон",
+        "id": "Наркобарон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:611"
+    }
+  },
+  {
+    "n": {
+      "identity": 612,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Филантроп",
+        "id": "Филантроп"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:612"
+    }
+  },
+  {
+    "n": {
+      "identity": 617,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Юл Васкес",
+        "id": "Юл Васкес"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:617"
+    }
+  },
+  {
+    "n": {
+      "identity": 618,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Armando Torres",
+        "name": "Армандо Торрес",
+        "id": "Армандо Торрес"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:618"
+    }
+  },
+  {
+    "n": {
+      "identity": 620,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Луис Лопес",
+        "id": "Луис Лопес"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:620"
+    }
+  },
+  {
+    "n": {
+      "identity": 621,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Энрике Бардас",
+        "id": "Энрике Бардас"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:621"
+    }
+  },
+  {
+    "n": {
+      "identity": 622,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Энрике",
+        "id": "Энрике"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:622"
+    }
+  },
+  {
+    "n": {
+      "identity": 626,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Папи",
+        "id": "Папи"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:626"
+    }
+  },
+  {
+    "n": {
+      "identity": 630,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Arnaud",
+        "name": "Арно",
+        "id": "Арно"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:630"
+    }
+  },
+  {
+    "n": {
+      "identity": 638,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Артур",
+        "id": "Артур"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:638"
+    }
+  },
+  {
+    "n": {
+      "identity": 639,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "relationshipstatus": "ended",
+        "name": "Мэри Валвона",
+        "id": "Мэри Валвона"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:639"
+    }
+  },
+  {
+    "n": {
+      "identity": 640,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "любовник",
+        "name": "Запулла",
+        "id": "Запулла"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:640"
+    }
+  },
+  {
+    "n": {
+      "identity": 641,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Марио Валвона",
+        "id": "Марио Валвона",
+        "status": "arrested"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:641"
+    }
+  },
+  {
+    "n": {
+      "identity": 642,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "relationshipstatus": "don",
+        "name": "Мэри",
+        "id": "Мэри"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:642"
+    }
+  },
+  {
+    "n": {
+      "identity": 643,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Королла",
+        "id": "Королла"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:643"
+    }
+  },
+  {
+    "n": {
+      "identity": 646,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Валвона"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:646"
+    }
+  },
+  {
+    "n": {
+      "identity": 647,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Артур Стаббс",
+        "id": "Артур Стаббс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:647"
+    }
+  },
+  {
+    "n": {
+      "identity": 648,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Тома Стаббса",
+        "id": "Тома Стаббса"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:648"
+    }
+  },
+  {
+    "n": {
+      "identity": 649,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Томас Стаббс Мл",
+        "id": "Томас Стаббс Мл"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:649"
+    }
+  },
+  {
+    "n": {
+      "identity": 652,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Томас Стаббс Iii",
+        "id": "Томас Стаббс Iii"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:652"
+    }
+  },
+  {
+    "n": {
+      "identity": 661,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джонни Клебиц",
+        "id": "Джонни Клебиц"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:661"
+    }
+  },
+  {
+    "n": {
+      "identity": 664,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Player",
+        "id": "Player"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:664"
+    }
+  },
+  {
+    "n": {
+      "identity": 665,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Chrisp Brothers",
+        "id": "Chrisp Brothers"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:665"
+    }
+  },
+  {
+    "n": {
+      "identity": 667,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Archie",
+        "id": "Archie"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:667"
+    }
+  },
+  {
+    "n": {
+      "identity": 669,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Albert",
+        "id": "Albert"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:669"
+    }
+  },
+  {
+    "n": {
+      "identity": 671,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ.Имя": "Asuka Kasen",
+        "яп.Имя": "加瀬 明日香",
+        "name": "Асука Касен",
+        "id": "Асука Касен"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:671"
+    }
+  },
+  {
+    "n": {
+      "identity": 674,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Кэндзи",
+        "id": "Кэндзи"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:674"
+    }
+  },
+  {
+    "n": {
+      "identity": 675,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Кадзуки",
+        "id": "Кадзуки"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:675"
+    }
+  },
+  {
+    "n": {
+      "identity": 676,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Юка",
+        "id": "Юка"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:676"
+    }
+  },
+  {
+    "n": {
+      "identity": 677,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "birthplace": "Япония",
+        "name": "Асука",
+        "id": "Асука",
+        "residence": "Либерти-Сити"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:677"
+    }
+  },
+  {
+    "n": {
+      "identity": 683,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Майк",
+        "id": "Майк"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:683"
+    }
+  },
+  {
+    "n": {
+      "identity": 684,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Юки",
+        "id": "Юки"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:684"
+    }
+  },
+  {
+    "n": {
+      "identity": 685,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Ahmed Khaleel",
+        "arabicname": "أحمد خليل",
+        "name": "Ахмед Халил",
+        "id": "Ахмед Халил"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:685"
+    }
+  },
+  {
+    "n": {
+      "identity": 687,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Тахир",
+        "id": "Тахир"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:687"
+    }
+  },
+  {
+    "n": {
+      "identity": 688,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Юсуф",
+        "id": "Юсуф"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:688"
+    }
+  },
+  {
+    "n": {
+      "identity": 690,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Ахмед",
+        "id": "Ахмед"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:690"
+    }
+  },
+  {
+    "n": {
+      "identity": 691,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Bub",
+        "name": "Баб",
+        "id": "Баб"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:691"
+    }
+  },
+  {
+    "n": {
+      "identity": 693,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бабба",
+        "id": "Бабба"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:693"
+    }
+  },
+  {
+    "n": {
+      "identity": 694,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Buck",
+        "name": "Бак",
+        "id": "Бак"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:694"
+    }
+  },
+  {
+    "n": {
+      "identity": 695,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Bucky Sligo",
+        "name": "Бакки Слайго",
+        "id": "Бакки Слайго"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:695"
+    }
+  },
+  {
+    "n": {
+      "identity": 696,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Деррик Макрири",
+        "id": "Деррик Макрири"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:696"
+    }
+  },
+  {
+    "n": {
+      "identity": 697,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Деррик",
+        "id": "Деррик"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:697"
+    }
+  },
+  {
+    "n": {
+      "identity": 698,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Слайго",
+        "id": "Слайго"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:698"
+    }
+  },
+  {
+    "n": {
+      "identity": 700,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бакки",
+        "id": "Бакки"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:700"
+    }
+  },
+  {
+    "n": {
+      "identity": 701,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "проститутка",
+        "name": "Барбара",
+        "id": "Барбара"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:701"
+    }
+  },
+  {
+    "n": {
+      "identity": 703,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Фернандо Мартинес",
+        "id": "Фернандо Мартинес"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:703"
+    }
+  },
+  {
+    "n": {
+      "identity": 704,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Фил",
+        "id": "Фил"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:704"
+    }
+  },
+  {
+    "n": {
+      "identity": 705,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Barbara Schternvart",
+        "name": "Барбара Штернварт",
+        "id": "Барбара Штернварт"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:705"
+    }
+  },
+  {
+    "n": {
+      "identity": 706,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Barbara",
+        "id": "Barbara"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:706"
+    }
+  },
+  {
+    "n": {
+      "identity": 711,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Formerhusband",
+        "id": "Formerhusband"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:711"
+    }
+  },
+  {
+    "n": {
+      "identity": 715,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Барри-Сторонник",
+        "id": "Барри-Сторонник"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:715"
+    }
+  },
+  {
+    "n": {
+      "identity": 721,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Barry Mickelthwaite",
+        "name": "Барри Микельтвейт",
+        "id": "Барри Микельтвейт"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:721"
+    }
+  },
+  {
+    "n": {
+      "identity": 722,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Фил Коллинз",
+        "id": "Фил Коллинз"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:722"
+    }
+  },
+  {
+    "n": {
+      "identity": 723,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Барри",
+        "id": "Барри"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:723"
+    }
+  },
+  {
+    "n": {
+      "identity": 724,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Рени",
+        "id": "Рени"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:724"
+    }
+  },
+  {
+    "n": {
+      "identity": 726,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Старк",
+        "id": "Старк"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:726"
+    }
+  },
+  {
+    "n": {
+      "identity": 733,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Пастор Ричардс",
+        "id": "Пастор Ричардс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:733"
+    }
+  },
+  {
+    "n": {
+      "identity": 735,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Морис",
+        "id": "Морис"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:735"
+    }
+  },
+  {
+    "n": {
+      "identity": 737,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Barry Harcross",
+        "name": "Барри Харкросс",
+        "id": "Барри Харкросс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:737"
+    }
+  },
+  {
+    "n": {
+      "identity": 742,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Leone Dealer",
+        "name": "Барыга Леоне",
+        "id": "Барыга Леоне"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:742"
+    }
+  },
+  {
+    "n": {
+      "identity": 745,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Дилер",
+        "id": "Дилер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:745"
+    }
+  },
+  {
+    "n": {
+      "identity": 746,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Винченцо Чилли",
+        "id": "Винченцо Чилли"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:746"
+    }
+  },
+  {
+    "n": {
+      "identity": 748,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Босс",
+        "id": "Босс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:748"
+    }
+  },
+  {
+    "n": {
+      "identity": 749,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Солдат",
+        "id": "Солдат"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:749"
+    }
+  },
+  {
+    "n": {
+      "identity": 750,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Сиприани",
+        "id": "Сиприани"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:750"
+    }
+  },
+  {
+    "n": {
+      "identity": 751,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Синдакко",
+        "id": "Синдакко"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:751"
+    }
+  },
+  {
+    "n": {
+      "identity": 752,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Винченцо",
+        "id": "Винченцо"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:752"
+    }
+  },
+  {
+    "n": {
+      "identity": 753,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Тони",
+        "id": "Тони"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:753"
+    }
+  },
+  {
+    "n": {
+      "identity": 755,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Busta Moves",
+        "name": "Баста Мувс",
+        "id": "Баста Мувс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:755"
+    }
+  },
+  {
+    "n": {
+      "identity": 757,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Buster Nutt",
+        "name": "Бастер Натт",
+        "id": "Бастер Натт"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:757"
+    }
+  },
+  {
+    "n": {
+      "identity": 758,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Beatrix Fontaine",
+        "name": "Беатрикс Фонтейн",
+        "voiceactor": "Илияна Кадушин",
+        "id": "Беатрикс Фонтейн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:758"
+    }
+  },
+  {
+    "n": {
+      "identity": 760,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "occupation": "терапевт",
+        "appearance": "Grand Theft Auto: San Andreas",
+        "name": "Дариус Фонтейн",
+        "id": "Дариус Фонтейн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:760"
+    }
+  },
+  {
+    "n": {
+      "identity": 761,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Фонтейн",
+        "id": "Фонтейн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:761"
+    }
+  },
+  {
+    "n": {
+      "identity": 762,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Экстрасенс",
+        "id": "Экстрасенс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:762"
+    }
+  },
+  {
+    "n": {
+      "identity": 763,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Слушатели",
+        "id": "Слушатели"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:763"
+    }
+  },
+  {
+    "n": {
+      "identity": 764,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Беверли Джонсон",
+        "id": "Беверли Джонсон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:764"
+    }
+  },
+  {
+    "n": {
+      "identity": 765,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Шон",
+        "id": "Шон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:765"
+    }
+  },
+  {
+    "n": {
+      "identity": 766,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Кендл",
+        "id": "Кендл"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:766"
+    }
+  },
+  {
+    "n": {
+      "identity": 767,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Брайан",
+        "id": "Брайан"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:767"
+    }
+  },
+  {
+    "n": {
+      "identity": 768,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Beverly Clamhopper",
+        "name": "Беверли Клэмхоппер",
+        "id": "Беверли Клэмхоппер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:768"
+    }
+  },
+  {
+    "n": {
+      "identity": 769,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Беверли",
+        "id": "Беверли"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:769"
+    }
+  },
+  {
+    "n": {
+      "identity": 772,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Beverly Felton",
+        "name": "Беверли Фелтон",
+        "id": "Беверли Фелтон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:772"
+    }
+  },
+  {
+    "n": {
+      "identity": 776,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Франклин Клинтон",
+        "id": "Франклин Клинтон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:776"
+    }
+  },
+  {
+    "n": {
+      "identity": 777,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Клей «Жесткач» Джексон",
+        "id": "Клей «Жесткач» Джексон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:777"
+    }
+  },
+  {
+    "n": {
+      "identity": 778,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Миранда Коуэн",
+        "id": "Миранда Коуэн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:778"
+    }
+  },
+  {
+    "n": {
+      "identity": 779,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мэдисон Фокс",
+        "id": "Мэдисон Фокс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:779"
+    }
+  },
+  {
+    "n": {
+      "identity": 780,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Фотограф"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:780"
+    }
+  },
+  {
+    "n": {
+      "identity": 784,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Помощник"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:784"
+    }
+  },
+  {
+    "n": {
+      "identity": 785,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Begbie",
+        "name": "Бегби",
+        "id": "Бегби"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:785"
+    }
+  },
+  {
+    "n": {
+      "identity": 788,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Сэмюэл Дивер",
+        "id": "Сэмюэл Дивер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:788"
+    }
+  },
+  {
+    "n": {
+      "identity": 791,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Ben",
+        "name": "Бен",
+        "id": "Бен"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:791"
+    }
+  },
+  {
+    "n": {
+      "identity": 792,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Benjamin Mill",
+        "name": "Бенджамин Милл",
+        "id": "Бенджамин Милл"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:792"
+    }
+  },
+  {
+    "n": {
+      "identity": 794,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бенни",
+        "id": "Бенни"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:794"
+    }
+  },
+  {
+    "n": {
+      "identity": 795,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Милли Перкинс",
+        "id": "Милли Перкинс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:795"
+    }
+  },
+  {
+    "n": {
+      "identity": 797,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Милли",
+        "id": "Милли"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:797"
+    }
+  },
+  {
+    "n": {
+      "identity": 803,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Beryl",
+        "name": "Берил",
+        "id": "Берил"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:803"
+    }
+  },
+  {
+    "n": {
+      "identity": 804,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Арчи Криспов",
+        "id": "Арчи Криспов"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:804"
+    }
+  },
+  {
+    "n": {
+      "identity": 805,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Беркли",
+        "alias": "Berkley",
+        "language": "англ.",
+        "id": "Беркли"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:805"
+    }
+  },
+  {
+    "n": {
+      "identity": 806,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Зеро",
+        "id": "Зеро"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:806"
+    }
+  },
+  {
+    "n": {
+      "identity": 808,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Зиро",
+        "id": "Зиро"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:808"
+    }
+  },
+  {
+    "n": {
+      "identity": 811,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "игра": "Grand Theft Auto IV",
+        "англ.Имя": "Bernie Crane",
+        "name": "Бе́Рни Крейн",
+        "настоящееИмя": "Флориан Кравич",
+        "id": "Бе́Рни Крейн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:811"
+    }
+  },
+  {
+    "n": {
+      "identity": 814,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Берни",
+        "id": "Берни"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:814"
+    }
+  },
+  {
+    "n": {
+      "identity": 816,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Вице-Мэр Брайс Доукинс",
+        "id": "Вице-Мэр Брайс Доукинс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:816"
+    }
+  },
+  {
+    "n": {
+      "identity": 817,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "birthdate": "1978",
+        "occupation": "лайв-стайл коуч",
+        "nationality": "Югославия",
+        "name": "Флориан Кравич",
+        "sexualorientation": "не скрывает",
+        "id": "Флориан Кравич"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:817"
+    }
+  },
+  {
+    "n": {
+      "identity": 818,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Дарко Бревич",
+        "id": "Дарко Бревич"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:818"
+    }
+  },
+  {
+    "n": {
+      "identity": 819,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Beth",
+        "name": "Бет",
+        "id": "Бет"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:819"
+    }
+  },
+  {
+    "n": {
+      "identity": 822,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Паппи",
+        "id": "Паппи"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:822"
+    }
+  },
+  {
+    "n": {
+      "identity": 823,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Билли Боб Бина",
+        "id": "Билли Боб Бина"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:823"
+    }
+  },
+  {
+    "n": {
+      "identity": 824,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Сын",
+        "id": "Сын",
+        "имя": "неизвестно"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:824"
+    }
+  },
+  {
+    "n": {
+      "identity": 825,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бетси О'Нил",
+        "language": "английский",
+        "id": "Бетси О'Нил"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:825"
+    }
+  },
+  {
+    "n": {
+      "identity": 826,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Betty Feeley",
+        "name": "Бетти Фили",
+        "id": "Бетти Фили"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:826"
+    }
+  },
+  {
+    "n": {
+      "identity": 830,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Беттина",
+        "id": "Беттина"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:830"
+    }
+  },
+  {
+    "n": {
+      "identity": 831,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джиззи Би",
+        "id": "Джиззи Би"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:831"
+    }
+  },
+  {
+    "n": {
+      "identity": 832,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джиззи",
+        "id": "Джиззи"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:832"
+    }
+  },
+  {
+    "n": {
+      "identity": 833,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Проститутка",
+        "id": "Проститутка"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:833"
+    }
+  },
+  {
+    "n": {
+      "identity": 834,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Охранник",
+        "id": "Охранник"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:834"
+    }
+  },
+  {
+    "n": {
+      "identity": 835,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бандит",
+        "id": "Бандит"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:835"
+    }
+  },
+  {
+    "n": {
+      "identity": 836,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Марк Уэйн",
+        "alsoknownas": "Би-Дап",
+        "id": "Марк Уэйн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:836"
+    }
+  },
+  {
+    "n": {
+      "identity": 837,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "currentgang": "Ballas",
+        "name": "B-Dup",
+        "formergang": "Grove Street Families",
+        "id": "B-Dup",
+        "status": "former member"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:837"
+    }
+  },
+  {
+    "n": {
+      "identity": 838,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "currentstatus": "free",
+        "name": "Big Bear",
+        "formergang": "Grove Street Families",
+        "id": "Big Bear",
+        "status": "former member"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:838"
+    }
+  },
+  {
+    "n": {
+      "identity": 839,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "BJ Smith",
+        "occupation": "American football player",
+        "name": "Би-Джей Смит",
+        "id": "Би-Джей Смит"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:839"
+    }
+  },
+  {
+    "n": {
+      "identity": 840,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Лоуренс «Lt» Тэйлор"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:840"
+    }
+  },
+  {
+    "n": {
+      "identity": 845,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Bj",
+        "id": "Bj"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:845"
+    }
+  },
+  {
+    "n": {
+      "identity": 861,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "id": "Смит"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:861"
+    }
+  },
+  {
+    "n": {
+      "identity": 862,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Барри «Биг Беар» Торн",
+        "nickname": "Биг Беар",
+        "id": "Барри «Биг Беар» Торн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:862"
+    }
+  },
+  {
+    "n": {
+      "identity": 866,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "currentstatus": "drug addict",
+        "condition": "shaking due to crack addiction",
+        "occupation": "contract worker for Bi-Dap",
+        "appearance": "emaciated",
+        "name": "Биг Беар",
+        "id": "Биг Беар",
+        "status": "former member of Grove Street Families"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:866"
+    }
+  },
+  {
+    "n": {
+      "identity": 871,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Би-Дап",
+        "id": "Би-Дап"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:871"
+    }
+  },
+  {
+    "n": {
+      "identity": 872,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Свит",
+        "id": "Свит"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:872"
+    }
+  },
+  {
+    "n": {
+      "identity": 876,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Big B.",
+        "name": "Биг Би",
+        "id": "Биг Би"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:876"
+    }
+  },
+  {
+    "n": {
+      "identity": 877,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Биг Поппа",
+        "id": "Биг Поппа"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:877"
+    }
+  },
+  {
+    "n": {
+      "identity": 881,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Big Wayne",
+        "name": "Биг Уэйн",
+        "id": "Биг Уэйн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:881"
+    }
+  },
+  {
+    "n": {
+      "identity": 887,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "BigMac",
+        "name": "Бигмак",
+        "id": "Бигмак"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:887"
+    }
+  },
+  {
+    "n": {
+      "identity": 891,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Bison",
+        "name": "Бизон",
+        "id": "Бизон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:891"
+    }
+  },
+  {
+    "n": {
+      "identity": 893,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Bill Durzbum",
+        "name": "Билл Дурцбум",
+        "id": "Билл Дурцбум"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:893"
+    }
+  },
+  {
+    "n": {
+      "identity": 894,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Bill Tautz",
+        "name": "Билл Тауц",
+        "id": "Билл Тауц"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:894"
+    }
+  },
+  {
+    "n": {
+      "identity": 896,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Неназванная Женщина",
+        "id": "Неназванная Женщина"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:896"
+    }
+  },
+  {
+    "n": {
+      "identity": 899,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Билли Блу",
+        "id": "Билли Блу",
+        "age": "18"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:899"
+    }
+  },
+  {
+    "n": {
+      "identity": 900,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бобби Блу",
+        "id": "Бобби Блу"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:900"
+    }
+  },
+  {
+    "n": {
+      "identity": 904,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Его",
+        "id": "Его"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:904"
+    }
+  },
+  {
+    "n": {
+      "identity": 905,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Даниэль Тэй",
+        "id": "Даниэль Тэй"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:905"
+    }
+  },
+  {
+    "n": {
+      "identity": 906,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Billy Bob",
+        "name": "Билли Боб",
+        "id": "Билли Боб"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:906"
+    }
+  },
+  {
+    "n": {
+      "identity": 908,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Па Уэйн",
+        "id": "Па Уэйн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:908"
+    }
+  },
+  {
+    "n": {
+      "identity": 909,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Боб Уэйн",
+        "id": "Боб Уэйн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:909"
+    }
+  },
+  {
+    "n": {
+      "identity": 910,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джолейн",
+        "id": "Джолейн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:910"
+    }
+  },
+  {
+    "n": {
+      "identity": 911,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мэри Бет",
+        "id": "Мэри Бет"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:911"
+    }
+  },
+  {
+    "n": {
+      "identity": 912,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джетро",
+        "id": "Джетро"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:912"
+    }
+  },
+  {
+    "n": {
+      "identity": 913,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Сет",
+        "id": "Сет"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:913"
+    }
+  },
+  {
+    "n": {
+      "identity": 914,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Лейзи Боллс",
+        "id": "Лейзи Боллс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:914"
+    }
+  },
+  {
+    "n": {
+      "identity": 915,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Питер Ли",
+        "id": "Питер Ли"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:915"
+    }
+  },
+  {
+    "n": {
+      "identity": 916,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бофф",
+        "id": "Бофф"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:916"
+    }
+  },
+  {
+    "n": {
+      "identity": 917,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Сэмми Джо",
+        "id": "Сэмми Джо"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:917"
+    }
+  },
+  {
+    "n": {
+      "identity": 918,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Терри Барбара",
+        "id": "Терри Барбара"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:918"
+    }
+  },
+  {
+    "n": {
+      "identity": 919,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мэгги Мэй",
+        "id": "Мэгги Мэй"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:919"
+    }
+  },
+  {
+    "n": {
+      "identity": 920,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бонни",
+        "id": "Бонни"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:920"
+    }
+  },
+  {
+    "n": {
+      "identity": 921,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джонни В.",
+        "id": "Джонни В."
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:921"
+    }
+  },
+  {
+    "n": {
+      "identity": 922,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бобби Билл",
+        "id": "Бобби Билл"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:922"
+    }
+  },
+  {
+    "n": {
+      "identity": 923,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Фабрицио",
+        "id": "Фабрицио"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:923"
+    }
+  },
+  {
+    "n": {
+      "identity": 924,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Ненавидит Все, Что Отличается От Него",
+        "id": "Ненавидит Все, Что Отличается От Него"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:924"
+    }
+  },
+  {
+    "n": {
+      "identity": 925,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Элвис Пресли",
+        "id": "Элвис Пресли"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:925"
+    }
+  },
+  {
+    "n": {
+      "identity": 927,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "полноеИмя": "Уильям Грей",
+        "name": "Уильям Грей",
+        "прозвище": "Билли",
+        "id": "Уильям Грей"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:927"
+    }
+  },
+  {
+    "n": {
+      "identity": 928,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Билли Грей",
+        "id": "Билли Грей",
+        "criminalactivity": "криминальная деятельность"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:928"
+    }
+  },
+  {
+    "n": {
+      "identity": 929,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джим Фицджеральд",
+        "id": "Джим Фицджеральд"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:929"
+    }
+  },
+  {
+    "n": {
+      "identity": 930,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Брайан Джереми",
+        "id": "Брайан Джереми"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:930"
+    }
+  },
+  {
+    "n": {
+      "identity": 931,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джонни Клебица",
+        "id": "Джонни Клебица"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:931"
+    }
+  },
+  {
+    "n": {
+      "identity": 934,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Bilovski",
+        "name": "Биловски",
+        "id": "Биловски"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:934"
+    }
+  },
+  {
+    "n": {
+      "identity": 937,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Уно Карб",
+        "id": "Уно Карб",
+        "из": "Дзайбацу"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:937"
+    }
+  },
+  {
+    "n": {
+      "identity": 938,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Клод Спид",
+        "id": "Клод Спид"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:938"
+    }
+  },
+  {
+    "n": {
+      "identity": 941,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бифитер",
+        "id": "Бифитер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:941"
+    }
+  },
+  {
+    "n": {
+      "identity": 943,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Рейзорс",
+        "id": "Рейзорс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:943"
+    }
+  },
+  {
+    "n": {
+      "identity": 944,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бифф Рок",
+        "id": "Бифф Рок"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:944"
+    }
+  },
+  {
+    "n": {
+      "identity": 946,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бифф",
+        "id": "Бифф"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:946"
+    }
+  },
+  {
+    "n": {
+      "identity": 953,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "игра": "Grand Theft Auto: Vice City Stories",
+        "англ": "Bishop",
+        "членСемьи": "Вэнс",
+        "особенности": "носит бейсбольную биту или пистолет, носит шляпу, золотое ожерелье, белую майку и зелёные штаны",
+        "name": "Бишоп",
+        "id": "Бишоп",
+        "перевод": "епископ",
+        "житель": "Вайс-Сити"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:953"
+    }
+  },
+  {
+    "n": {
+      "identity": 954,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "englishname": "Bledar Morina",
+        "name": "Бледар Морина",
+        "id": "Бледар Морина"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:954"
+    }
+  },
+  {
+    "n": {
+      "identity": 956,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Албанский Гангстер",
+        "id": "Албанский Гангстер"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:956"
+    }
+  },
+  {
+    "n": {
+      "identity": 958,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бледар",
+        "id": "Бледар"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:958"
+    }
+  },
+  {
+    "n": {
+      "identity": 961,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Калем",
+        "id": "Калем"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:961"
+    }
+  },
+  {
+    "n": {
+      "identity": 962,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Дардан Петрела",
+        "id": "Дардан Петрела"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:962"
+    }
+  },
+  {
+    "n": {
+      "identity": 963,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Роман Беллик",
+        "id": "Роман Беллик"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:963"
+    }
+  },
+  {
+    "n": {
+      "identity": 964,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Владимир Глебов",
+        "id": "Владимир Глебов"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:964"
+    }
+  },
+  {
+    "n": {
+      "identity": 965,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Дардан",
+        "id": "Дардан"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:965"
+    }
+  },
+  {
+    "n": {
+      "identity": 966,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Блюси Сент-Джон",
+        "description": "певица южного блюза, которая поет о насилии в детстве, о смене пола, а также о ряде других личных проблем",
+        "id": "Блюси Сент-Джон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:966"
+    }
+  },
+  {
+    "n": {
+      "identity": 970,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Аль",
+        "id": "Аль"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:970"
+    }
+  },
+  {
+    "n": {
+      "identity": 971,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Её",
+        "id": "Её"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:971"
+    }
+  },
+  {
+    "n": {
+      "identity": 972,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Мелоди Свитс",
+        "id": "Мелоди Свитс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:972"
+    }
+  },
+  {
+    "n": {
+      "identity": 973,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бо Дьюк",
+        "id": "Бо Дьюк"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:973"
+    }
+  },
+  {
+    "n": {
+      "identity": 976,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Дейви Дьюк",
+        "id": "Дейви Дьюк"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:976"
+    }
+  },
+  {
+    "n": {
+      "identity": 977,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Люк Дьюк",
+        "id": "Люк Дьюк"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:977"
+    }
+  },
+  {
+    "n": {
+      "identity": 978,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бо Нурр",
+        "id": "Бо Нурр"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:978"
+    }
+  },
+  {
+    "n": {
+      "identity": 983,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Боб",
+        "id": "Боб"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:983"
+    }
+  },
+  {
+    "n": {
+      "identity": 990,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name(english)": "Bob Jefferson",
+        "name": "Bob Jefferson",
+        "id": "Bob Jefferson"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:990"
+    }
+  },
+  {
+    "n": {
+      "identity": 992,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name(english)": "Bob Malkin",
+        "name": "Bob Malkin",
+        "id": "Bob Malkin"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:992"
+    }
+  },
+  {
+    "n": {
+      "identity": 994,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Bobby",
+        "name": "Бобби",
+        "id": "Бобби"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:994"
+    }
+  },
+  {
+    "n": {
+      "identity": 999,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Харрисон Чад",
+        "id": "Харрисон Чад"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:999"
+    }
+  },
+  {
+    "n": {
+      "identity": 1000,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джон Гравелли",
+        "id": "Джон Гравелли"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1000"
+    }
+  },
+  {
+    "n": {
+      "identity": 1002,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бобби Джефферсон",
+        "id": "Бобби Джефферсон"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1002"
+    }
+  },
+  {
+    "n": {
+      "identity": 1004,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Раскалов",
+        "id": "Раскалов"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1004"
+    }
+  },
+  {
+    "n": {
+      "identity": 1006,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Бобби Джо Робертс",
+        "description": "персонаж игры Grand Theft Auto 2",
+        "id": "Бобби Джо Робертс"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1006"
+    }
+  },
+  {
+    "n": {
+      "identity": 1012,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Гречка Мэри",
+        "id": "Гречка Мэри"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1012"
+    }
+  },
+  {
+    "n": {
+      "identity": 1013,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Bobbie Ray",
+        "name": "Бобби Рэй",
+        "id": "Бобби Рэй"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1013"
+    }
+  },
+  {
+    "n": {
+      "identity": 1014,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Bobby",
+        "id": "Bobby",
+        "biography": "engages in homoerotic activities",
+        "accent": "жлобский",
+        "mentalillness": "post-traumatic stress disorder"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1014"
+    }
+  },
+  {
+    "n": {
+      "identity": 1015,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Larry Joe",
+        "id": "Larry Joe"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1015"
+    }
+  },
+  {
+    "n": {
+      "identity": 1021,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Джим Флорентин",
+        "id": "Джим Флорентин"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1021"
+    }
+  }
+]

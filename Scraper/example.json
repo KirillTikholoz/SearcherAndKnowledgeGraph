@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "DJ Clue",
+        "Games": [],
+        "Business": [
+            "Ди-джей,актёр озвучки,радиоведущий,актёр,продюссер,рэпер."
+        ],
+        "Voiced": [
+            "Радиостанция в Grand Theft Auto: Liberty City Stories-The Liberty Jam"
+        ],
+        "Gender": "Мужской",
+        "Nationality": "Американец",
+        "State": "Жив",
+        "Description": [
+            "\n"
+        ]
+    },
+    {
+        "Name": "DJ Green Lantern",
+        "Games": [],
+        "Business": [],
+        "Voiced": [],
+        "Gender": "Мужской",
+        "Nationality": "",
+        "State": "",
+        "Description": [
+            "DJ Green Lantern (настоящее имя Джеймс Кристофер Д’Агостино) — американский ди-джей, продюсер и телеведущий.\n",
+            "Он является соведущим радиостанции The Beat 102.7 в Grand Theft Auto IV вместе с DJ Mister Cee.\n"
+        ]
+    },
+    {
+        "Name": "DJ Mister Cee",
+        "Games": [],
+        "Business": [],
+        "Voiced": [],
+        "Gender": "Мужской",
+        "Nationality": "",
+        "State": "",
+        "Description": [
+            "\nDJ Mister Cee (настоящее имя Кельвин Лебрен) — американский диджей, телеведущий, музыкальный продюсер и радиоведущий на нью-йоркском радио WQHT (Hot 97).\n",
+            "Он является соведущим радиостанции The Beat 102.7 в Grand Theft Auto IV вместе с DJ Green Lantern.\n"
+        ]
+    }
+]

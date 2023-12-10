@@ -1,0 +1,11 @@
+SET UTF-8
+TRY абвгдежзийклмнопрстуфхцчшщъыьэюя
+SFX N Y 1
+SFX N 0 а
+SFX N 0 ов
+SFX N 0 у
+SFX N 0 е
+SFX N 0 й
+SFX N 0 и
+SFX N 0 ей
+SFX N 0 ий

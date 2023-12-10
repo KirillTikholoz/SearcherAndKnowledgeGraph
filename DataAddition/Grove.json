@@ -1,0 +1,61 @@
+[
+  {
+    "connectedNode": {
+      "identity": 182,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Slim Skills",
+        "id": "Slim Skills"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:182"
+    }
+  },
+  {
+    "connectedNode": {
+      "identity": 862,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Барри «Биг Беар» Торн",
+        "nickname": "Биг Беар",
+        "id": "Барри «Биг Беар» Торн"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:862"
+    }
+  },
+  {
+    "connectedNode": {
+      "identity": 866,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "currentstatus": "drug addict",
+        "condition": "shaking due to crack addiction",
+        "occupation": "contract worker for Bi-Dap",
+        "appearance": "emaciated",
+        "name": "Биг Беар",
+        "id": "Биг Беар",
+        "status": "former member of Grove Street Families"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:866"
+    }
+  },
+  {
+    "connectedNode": {
+      "identity": 1054,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "англ": "Big Devil",
+        "name": "Большой Дьявол",
+        "id": "Большой Дьявол"
+      },
+      "elementId": "4:d168b516-e77c-4b84-b1da-4db716fd063a:1054"
+    }
+  }
+]
